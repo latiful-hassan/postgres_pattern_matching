@@ -1,4 +1,4 @@
-# postgres_pattern_matching
+# postgres_pattern_matching_basics
 
 ## Table Creation & Data Import
 
