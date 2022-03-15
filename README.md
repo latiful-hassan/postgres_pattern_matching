@@ -10,3 +10,30 @@
 - Here is an excerpt of the data:
 
 ![](https://github.com/latiful-hassan/postgres_pattern_matching/blob/main/covid_data_screenshots/covid_data_select.png)
+
+## Pattern Matching
+
+### Wildcards
+
+- Here is an example of basic pattern matching using a **Wildcard (%)**:
+
+![]()
+
+### Regular Expressions
+
+- **Starts With (^)**:
+
+![]()
+
+- **Alternation (|)**:
+  * This gives values of Laos, Latvia and Sri Lanka
+
+![]()
+
+- **Any Single Character (_)**:
+
+![]()
+
+- **Repetition (+):
+
+![]()
