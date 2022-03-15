@@ -6,3 +6,7 @@
 - Below are the queries used to create the table and copy the data from the csv file:
 
 ![]()
+
+- Here is an excerpt of the data:
+
+![]()
