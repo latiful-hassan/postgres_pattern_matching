@@ -15,9 +15,13 @@
 
 ### Wildcards
 
-- Here is an example of basic pattern matching using a **Wildcard (%)**:
+- **%**:
 
-![]()
+![](https://github.com/latiful-hassan/postgres_pattern_matching/blob/main/covid_data_screenshots/covid_data_wildcard.png)
+
+- **_**:
+
+![](https://github.com/latiful-hassan/postgres_pattern_matching/blob/main/covid_data_screenshots/covid_data_underscore.png)
 
 ### Regular Expressions
 
@@ -36,7 +40,7 @@
 
 - **Repetition (+, *):
 
-![]()
+![](https://github.com/latiful-hassan/postgres_pattern_matching/blob/main/covid_data_screenshots/covid_data_repetition.png)
 
 - **Matching Any Character ([])**:
 
