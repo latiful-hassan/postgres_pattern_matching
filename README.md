@@ -34,6 +34,10 @@
 
 ![]()
 
-- **Repetition (+):
+- **Repetition (+, *):
+
+![]()
+
+- **Matching Any Character ([])**:
 
 ![]()
