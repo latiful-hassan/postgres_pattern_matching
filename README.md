@@ -23,12 +23,12 @@
 
 - **Starts With (^)**:
 
-![]()
+![](https://github.com/latiful-hassan/postgres_pattern_matching/blob/main/covid_data_screenshots/covid_data_start_with.png)
 
 - **Alternation (|)**:
   * This gives values of Laos, Latvia and Sri Lanka
 
-![]()
+![](https://github.com/latiful-hassan/postgres_pattern_matching/blob/main/covid_data_screenshots/covid_data_alternation.png)
 
 - **Any Single Character (_)**:
 
