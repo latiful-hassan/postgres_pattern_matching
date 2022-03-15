@@ -34,14 +34,7 @@
 
 ![](https://github.com/latiful-hassan/postgres_pattern_matching/blob/main/covid_data_screenshots/covid_data_alternation.png)
 
-- **Any Single Character (_)**:
-
-![]()
 
 - **Repetition (+, *):
 
 ![](https://github.com/latiful-hassan/postgres_pattern_matching/blob/main/covid_data_screenshots/covid_data_repetition.png)
-
-- **Matching Any Character ([])**:
-
-![]()
